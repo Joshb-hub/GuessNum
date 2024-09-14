@@ -1,4 +1,3 @@
-# GuessNum
 # Guess the Number Game
 
 ## Overview
@@ -34,6 +33,22 @@ You can run this game locally by following the steps below:
 1. Clone or download this repository.
 2. Navigate to the project folder.
 3. Open the `index.html` file in any modern browser to start playing.
+
+## Files
+- **index.html**: Contains the structure of the game interface.
+- **style.css**: Styles the game and controls the appearance.
+- **script.js**: Implements the game logic, including random number generation and player feedback.
+
+## Technologies Used
+- **HTML**: For creating the structure of the game interface.
+- **CSS**: For adding basic styles to the game layout.
+- **JavaScript**: For handling the game logic, including user input, feedback, and game resets.
+
+## Future Enhancements
+- Add a scoring system to track the number of attempts.
+- Allow the user to set their own range for the random number.
+- Implement difficulty levels (e.g., easy, medium, hard).
+- Improve the user interface with more styling and animations.
 
 ```bash
 git clone https://github.com/Joshb-hub/GuessNum.git
